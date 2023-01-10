@@ -10,8 +10,3 @@ def from_json_string(my_str):
      returns Python objects
     '''
     return json.loads(my_str)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
